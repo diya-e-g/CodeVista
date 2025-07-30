@@ -46,7 +46,7 @@
 ├── postcss.config.mjs
 ├── next.config.mjs
 ├── tsconfig.json
-├── requirements.txt        # Python requirements (if used for any ML/processing)
+├── requirements.txt       
 └── .gitignore
 
 ````
